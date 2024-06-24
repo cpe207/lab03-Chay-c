@@ -5,7 +5,7 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/Ee5eepPQUh5MoufXuw4s6dcBRaRyp7SPcgj09hTZWNq7aA?e=OK5xle)
 
-<strong>GITHUB PAGE URL : </strong>
+<strong>GITHUB PAGE URL : http://127.0.0.1:5500/lab02-Chay-c/index.html </strong>
 
 ชื่อ : ชยางกูร จันทร์จารุพงศ์
 รหัศนักศึกษา : 660610745
