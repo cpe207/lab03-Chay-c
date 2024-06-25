@@ -35,3 +35,41 @@ p.d {
 p.e {
   text-align : center;
 }
+
+img {
+  border-radius: 30%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1 {
+  font-family: "Playwrite USA Traditional" ;
+  text-align : center;
+  font-weight: bolder;
+  
+}
+div {
+  text-align : center;
+  font-style: italic;
+  font-weight: lighter;
+  text-decoration-color: black;
+}
+h3 {
+  font-family: "Playwrite USA Traditional" ;
+  text-align : center;
+}
+p.a {
+  text-align : center;
+}
+p.b {
+  text-align : center;
+}
+p.c {
+  text-align : center;
+}
+p.d {
+  text-align : center;
+}
+p.e {
+  text-align : center;
+}
